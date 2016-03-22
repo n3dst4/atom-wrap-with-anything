@@ -8,7 +8,6 @@ module.exports = WrapWithAnything =
 
   activate: (state) ->
     atom.config.observe 'wrap-with-anything.chars', (chars) =>
-      console.log "Got observed chars as " + chars
       @chars = chars
 
     atom.workspace.observeTextEditors (editor) =>
