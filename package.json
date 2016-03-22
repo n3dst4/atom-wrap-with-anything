@@ -1,7 +1,7 @@
 {
   "name": "wrap-with-anything",
   "main": "./lib/wrap-with-anything",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Wrap text selections instead of replacing them when certain characters are typed",
   "keywords": [],
   "repository": "https://github.com/n3dst4/atom-wrap-with-anything",
